@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sarutsunpawatr/Datath%20Online%20courses/E2Eproject/MLflowdemp/mlruns/0/612a6f2c3c1041e7a87675a998c91b22/artifacts
+end_time: 1728914945920
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 612a6f2c3c1041e7a87675a998c91b22
+run_name: colorful-bee-969
+run_uuid: 612a6f2c3c1041e7a87675a998c91b22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728914944633
+status: 3
+tags: []
+user_id: sarutsunpawatr
